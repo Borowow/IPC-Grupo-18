@@ -23,11 +23,11 @@ Los autores secuenciaron los genomas completos de los cuatro aislados (Illumina 
 
 ## Equipo de trabajo
 
-- [Albita Ordoñez] 
-- [Edison Méndez] 
-- [Boris Villacres] 
-- [Doménica Álvarez] 
-- [Danna Calcán] 
+- Albita Ordoñez
+- Edison Méndez
+- Boris Villacrés
+- Doménica Álvarez 
+- Danna Calcán
 
 ## Licencia
 
