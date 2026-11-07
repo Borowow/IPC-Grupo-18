@@ -1,1 +1,20 @@
+Herramienta, Versión,	Para qué sirve
+FastQC,	0.12.0, Revisar la calidad de las lecturas de secuenciación
+Trimmomatic,	0.39, Recortar adaptadores y bases de baja calidad
+Unicycler,	0.5.0, Ensamblar el genoma a partir de las lecturas
+QUAST, 5.2.0, Evaluar la calidad del ensamblaje
+Bakta,	-, Anotar los genes del genoma
+ResFinder,	4.5.0, Detectar genes de resistencia a antibióticos
+CARD,	3.2.9, Base de datos de genes de resistencia a antibióticos
+staramr, 0.10.0, Detectar genes de resistencia y mutaciones asociadas
+MOB-suite,	3.1.9, Reconstruir y tipar plásmidos
+PLSDB, 2023_11_03_v2, Base de datos de plásmidos para comparar
+mobileOG-db, 1.1.3, Base de datos de elementos genéticos móviles
+BacAnt,	-,	Detectar elementos transponibles y estructuras de resistencia
+Alien Hunter,	1.1.0, Detectar regiones adquiridas por transferencia horizontal
+Phigaro,1.0.1,Detectar profagos (virus integrados en el genoma bacteriano)
+PHASTEST, -, Detectar y anotar profagos
+CRISPRCasFinder,	1.1.0, Detectar sistemas CRISPR-Cas
+TYGS,	-,	Identificar especies mediante comparación de genomas (ANI)
+Python (pandas, seaborn, matplotlib),	3.12.3, Análisis de datos y gráficos
 
