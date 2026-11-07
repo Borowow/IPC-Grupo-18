@@ -2,14 +2,17 @@
 Se estudiaron cuatro aislados clínicos resistentes a carbapenémicos, obtenidos de aspirados traqueales de tres pacientes de la unidad de cuidados intensivos del Hospital IESS Quito Sur (agosto-septiembre de 2021). Dos aislados corresponden a Klebsiella pneumoniae ST1440 (Paciente 1 y 2) y dos a Serratia marcescens (Paciente 2 y 3).
 
 
-2. identificación de las bacterias: 
+
+2. Identificación de las bacterias: 
 Medio de cultivo y confirmación de resistencia a los carbapenémicos a través de la detección fenotípica inicial. Se utilizaron el monitoreo automatizado de cultivos (BD BACTEC), la tipificación por secuencias multilocus (MLST) y el cálculo de identidad media de nucleótidos (ANI) con TYGS.
+
 
 
 3. Secuenciación:
 - Extracción de ADN: DNeasy UltraClean Microbial Kit (Qiagen).
 - Preparación de la librería: NEBNext Ultra II DNA Library Prep Kit (NEB).
 - Secuenciación: Illumina HiSeq 4000, lecturas pareadas de 101 pb, con una cobertura mínima de 100x.
+
 
 
 4. Análisis bioinformático
