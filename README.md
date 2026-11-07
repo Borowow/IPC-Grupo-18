@@ -2,7 +2,7 @@
 
 *Introducción a la Programación Científica* (Máster en Bioinformática, UNIR).
 
-# Resistencia a carbapenémicos en *Klebsiella pneumoniae* ST1440 y *Serratia marcescens* durante un brote en UCI por COVID-19 (Ecuador)
+[# Resistencia a carbapenémicos en *Klebsiella pneumoniae* ST1440 y *Serratia marcescens* durante un brote en UCI por COVID-19 (Ecuador)](https://www.mdpi.com/2076-2607/13/10/2286)
 
 ## Descripción del proyecto
 
