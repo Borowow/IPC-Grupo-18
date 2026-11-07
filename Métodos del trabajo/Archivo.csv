@@ -16,5 +16,5 @@ Phigaro,1.0.1,Detectar profagos (virus integrados en el genoma bacteriano)
 PHASTEST, -, Detectar y anotar profagos
 CRISPRCasFinder,	1.1.0, Detectar sistemas CRISPR-Cas
 TYGS,	-,	Identificar especies mediante comparación de genomas (ANI)
-Python (pandas, seaborn, matplotlib),	3.12.3, Análisis de datos y gráficos
+Python (pandas-seaborn-matplotlib),	3.12.3, Análisis de datos y gráficos
 
