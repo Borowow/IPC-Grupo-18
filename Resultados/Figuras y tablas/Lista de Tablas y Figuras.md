@@ -1,14 +1,14 @@
-#Resultados del análisis de características genéticas de cuatro aislados clínicos:
+# Resultados del análisis de características genéticas de cuatro aislados clínicos:
 
-Dos aislados de Klebsiella pneumonieae ST1440
-Dos de _Serratia marcescens
+Dos aislados de *Klebsiella pneumonieae* ST1440
+Dos de **Serratia marcescens**
 
-##Tablas:`
+## Tablas:`
 
-Tabla 1. Characteristics of WGS assemblies, chromosomes and plasmids
+**Tabla 1.** Characteristics of WGS assemblies, chromosomes and plasmids
 Table 2. Comparative analysis of conjugative, nonmobilizable, and mobilizable plasmids in CrKp and CrSm isolates
 
-##Figuras
+## Figuras
 
 Figure 1. Distribution of predicted protein products in chromosomal (a) and plasmid (b) contigs.
 Figure 2. Distribution of mobile genetic element (MGE)-related genes in chromosomal (a) and plasmid (b) contigs
